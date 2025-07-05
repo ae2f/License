@@ -26,8 +26,9 @@ Modifying this license is not allowed exept for placeholders.
 
 # Conditions
 > In this section, the conditions of ae2f-License will be described.
-- An user can use on a work on any purpose if not modified.
+- An user can use or include a work on any purpose if not modified.
 - An user can modify a work, exept for the LICENSE of the work.
+- When an user modify or include a work and a work was an open source, the modified work's source code must be revealed.
 - An user can redistribute a work only if that work is modified as previously described.
 - An user can include/depend on a work only if that targetted work is on Dependencies.
 
